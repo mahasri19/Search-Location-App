@@ -95,5 +95,5 @@ License
 This project is released under the MIT License.
 
 Author
-Vyshnavi Garlapati
+Samala Mahasri 
 Search Location App – Python Tkinter Project
